@@ -4,4 +4,4 @@ pandas>=2.0.0,<=2.1.1
 scipy>=1.10.0,<=1.11.2
 matplotlib>=3.7.0,<=3.8.0
 streamlit>=1.20.0,<=1.25.0
-torch==2.0.1+cpu    # Add the appropriate version of torch here
+torch==2.3.0  # Adjust based on availability and compatibility
