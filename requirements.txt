@@ -4,5 +4,8 @@ pandas==2.1.1
 scipy==1.11.2
 matplotlib==3.8.0
 networkx==3.1
-torch @ https://download.pytorch.org/whl/cpu/torch-2.0.1-cp311-cp311-linux_x86_64.whl
+torch==2.1.0
+torchvision==0.14.0
+torchaudio==0.13.0
+
 
